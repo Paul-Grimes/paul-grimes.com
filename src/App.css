@@ -1,0 +1,81 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  min-height: calc(200px + 0.5vw);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(18px + 0.5vw);
+  color: #efefef;
+}
+
+.App-body {
+  text-align: left;
+  min-height: calc(400px + 0.5vw);
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  font-size: calc(14px + 0.5vw);
+  color: #efefef;
+}
+
+a {
+  color: #343a40;
+}
+
+a:hover {
+  color: #16161D;
+  text-decoration: none;
+}
+
+.nav-desc {
+  color: #efefef;
+  text-decoration: none;
+  padding: .5rem 1rem
+}
+
+div.media {
+  margin-top: calc(30px + 0.5vw);
+  margin-bottom: calc(10px + 0.5vw);
+  text-align: left;
+}
+
+div.media .media-heading {
+  color: #16161D;
+  font-size: calc(14px + 0.5vw);
+  display: block;
+}
+
+div.media .subtle {
+  font-size: calc(8px + 0.5vw);
+  display: block;
+}
+
+div.media .description {
+  font-size: calc(10px + 0.5vw);
+  display: block;
+  margin-bottom: calc(10px + 0.5vw);
+}
+
+div.media img {
+  width: calc(20vmin + 0.5vw);
+  margin-right: calc(10px + 0.5vw);
+
+}
+
+footer {
+  margin-top: calc(20px + 0.5vw);
+  margin-bottom: calc(10px + 0.5vw);
+  border-top: #16161D;
+  text-align: center;
+}
+
+footer a {
+  color: black;
+  font-size: calc(30px + 0.5vw);
+  margin-right: calc(10px + 0.5vw);
+  margin-left: calc(10px + 0.5vw);
+}

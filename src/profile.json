@@ -1,0 +1,64 @@
+{
+    "title": "Paul Grimes",
+    "summary": "Looking for work!",
+    "about": [
+        {
+            "email": "paul.l.grimes@gmail.com",
+            "phone": "(843)568-3254",
+            "mission": "I am an individual that is committed to his family, friends, job and community. I am honest, caring, respectful and accountable. I believe in continual education and wellness. With clear vision my day to day actions reflect a valued and productive member of society.",
+            "objective": "I am actively looking to secure long term employment. Due to the recent acquisition of KapStone by WestRock my current position is set to expire on 9/30/2019. As a programmer with over 10 years of experience, I have the flexibility to adapt to evolving organizational and technical requirements. I am effective and efficient with the use of my time. I hold a team first mentality fostering trust through actions, open communication and being accountable. With seasoned management experience, I understand how to lead, train, and communicate to a wide range of audiences.",
+            "overview":""
+        }
+    ],
+    "education": [
+        {
+            "institue": "Trident Technical College",
+            "logo": "https://www.tridenttech.edu/_files/images/logos/horizontalLogoTTC.jpg",
+            "url": "https://www.tridenttech.edu/",
+            "degree": "Computer Programming",
+            "graduationYear": 2007
+        }
+    ],
+    "experience": [
+        {
+            "companyName": "WestRock",
+            "logo": "https://www.westrock.com/public/westrock/images/logo-westrock.svg",
+            "url": "https://www.westrock.com/",
+            "position": "Developer/Analyst II",
+            "startDate": "4/1/2012",
+            "current": true,
+            "endDate": "",
+            "description": "Developed and maintained software solutions to automate manual processes. Developed and deployed custom software solutions to identify trucks on site and duration. Utilized the following skills: SQL, C#, VB, CSS, jQuery, Bootstrap , Crystal Reports, SSRS, Window Web Servers, Azure Services, Power BI,  DAX, and VBA."
+        },
+        {
+            "companyName": "Cyber Sprocket Labs",
+            "logo": "https://i1.social.s-msft.com/profile/u/avatar.jpg?displayname=lobby+jones&size=extralarge&version=8d1f3d8a-a524-42a6-a7c2-fc1d2ea5e18e",
+            "url": "https://cybersprocket.com",
+            "position": "Partner",
+            "startDate": "4/1/2007",
+            "current": false,
+            "endDate": "04/1/2012",
+            "description": "Responsible for the continuous development and management of a custom Assist Management System for the United States Air Force and Alutiiq – VB.Net/SQL/Web Forms. Developed features and maintained automated beer pouring system for Table Tap – Python/C/MySQL/Linux. Lead a core team of developers by providing an atmosphere that promoted learning while maintaining a high level of quality production. Utilized the following skills and systems: C#, Visual Basic, Postgres, MySQL, MS SQL, VBA, Python, lisp, Ruby, Git, SVN, PHP, jQuery, AWS, Virtual Box, C/C+."
+        },
+        {
+            "companyName": "Amazon",
+            "logo": "http://g-ec2.images-amazon.com/images/G/01/social/api-share/amazon_logo_500500._V323939215_.png",
+            "url": "https://www.amazon.com/",
+            "position": "Intern",
+            "startDate": "10/1/2006",
+            "current": false,
+            "endDate": "04/1/2007",
+            "description": "Learned the following skills – PHP, HTML, CSS, JavaScript and VBA"
+        },
+        {
+            "companyName": "Cinemark",
+            "logo": "https://www.cinemark.com/images/cinemarkLogo.png",
+            "url": "https://www.cinemark.com/",
+            "position": "Manager",
+            "startDate": "10/14/1990",
+            "current": false,
+            "endDate": "04/1/2004",
+            "description": "Maintained a clean, safe and supportive environment. Built an open system of communication. Provided challenging objectives with a high level of accountability and feedback. Produced results."
+        }
+    ]
+}
